@@ -1,8 +1,8 @@
-ReactJS Learning Curve!
+## ReactJS Learning Curve!
 
 
 
--There are 5 checkpoints to this course viz.
+- There are 5 checkpoints to this course viz.
 
    1. Getting Along with HTML5, CSS3 & JavaScript (ES6/ES7)
      
@@ -108,20 +108,20 @@ ReactJS Learning Curve!
         - Continue coding into the previous layout and implement like & dislike button onto it & each time we click onto any of those buttons 
           the counter of likes next to it increases.
 
-Final Output Demo:
-    https://github.com/core2webtechnologies/ContentsForIncubators/blob/master/01-React/image4.png
+    Final Output Demo:
+        https://github.com/core2webtechnologies/ContentsForIncubators/blob/master/01-React/image4.png
 
 
 4. Redux!. Redux System in ReactJS
 
-Redux System can be our saviour when it comes to managing data along with different components and using Redux inside our applications can reduce our data management complexities when the code base of application is vast and huge.
+    Redux System can be our saviour when it comes to managing data along with different components and using Redux inside our applications can reduce our data management complexities when the code base of application is vast and huge.
 
 
 5. A Mini Project in ReactJS.
-Things, which are must & Compulsory, should be included:
-    1. Redux System
-    2. Routing Since the application has to be multi-pages
-    3. Own JSON Server to save & manage data of the application.
-    4. API Requests to fetch & store data on JSON Server via Redux!.
+    Things, which are must & Compulsory, should be included:
+        1. Redux System
+        2. Routing Since the application has to be multi-pages
+        3. Own JSON Server to save & manage data of the application.
+        4. API Requests to fetch & store data on JSON Server via Redux!.
 
 

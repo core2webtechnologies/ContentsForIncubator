@@ -1,5 +1,5 @@
 
-##UI/UX resources for incubator
+## UI/UX resources for incubator
 
 
 - Following links are reference for prototyping in figma:-
@@ -13,4 +13,10 @@
 - While watching tutorial sequence should be as mentioned, dont mess with the sequence.  :smile:
 
 - Best method to learn and understand will be follow along the course.  :simple_smile:
-	
+
+## Resource for making Class Diagram, Flow chart, E-R Diagram
+
+
+- E-R Diagram, Flow chart, Class Diagram : https://mermaid-js.github.io/mermaid-live-editor
+- Overall Architecture overview : https://draw.io
+- How to design sprints? https://youtu.be/yRVdfvlDYhU
